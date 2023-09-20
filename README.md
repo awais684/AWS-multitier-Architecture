@@ -1,9 +1,7 @@
-## Capstone Project
 
+## AWS-multitier-Architecture
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i8mj77c3u5hsz51ouqlm.PNG
 
- <a href="https://youtu.be/AwH6drwfuAU">Youtube video</a>
- 
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AwH6drwfuAU/0.jpg)](https://www.youtube.com/watch?v=AwH6drwfuAU)
 
 
 ### Summary of the tasks:
@@ -120,5 +118,3 @@ Add the following parameters to the Parameter Store and set the correct values:
 2. /example/username   
 3. /example/password  
 4. /example/database exampledb
-
-
