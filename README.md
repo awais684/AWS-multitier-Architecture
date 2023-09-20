@@ -1,11 +1,11 @@
 
 ## AWS-multitier-Architecture
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i8mj77c3u5hsz51ouqlm.PNG
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i8mj77c3u5hsz51ouqlm.PNG)
 
 
 
 ### Summary of the tasks:
-- Step 0:  Inspect the archtecture 00:02:23
+- Step 0:  Inspect the architecture 00:02:23
 - Step 1: Create a Cloud9 IDE 00:05:49
 - Step 2: Get the Project Assets 00:07:51
 - Step 3: Install a LAMP web server on CLoud9 IDE 00:08:49
